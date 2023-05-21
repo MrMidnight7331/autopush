@@ -15,6 +15,10 @@ AutoPush is a small program to do the pushing to github, automatically! Once you
 
 `autopush`
 
+# Usage
+
+In a github repo directory, enter the command "autopush", you will be prompted to enter the changes in commit via your preset text editor. Your github access token is then being copied in your clipboard. When it asks for your credentials, enter your github username, and CTRL + V to auto paste the token.
+
 # Socials
 Email: mr.midnight.7331@gmail.com
 

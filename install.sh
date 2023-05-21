@@ -7,6 +7,7 @@ fi
 
 if [[ $1 ]]; then
     echo "$1" > /usr/bin/token.txt
+    echo "" >> /usr/bin/token.txt
     chmod +x ./autopush.sh
     cp ./autopush.sh /usr/bin/autopush
     echo "run: 'autopush' to start!"
