@@ -21,10 +21,10 @@ In a github repo directory, enter the command "autopush", you will be prompted t
 
 # Example
 
-![No video found!](./example-vid.mp4)
-
+https://github.com/MrMidnight7331/autopush/assets/112803556/06de5b90-062f-4e03-847b-ccc306f67cce
 
 # Socials
+
 Email: mr.midnight.7331@gmail.com
 
 Twitter: @MrMidnight53
