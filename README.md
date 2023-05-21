@@ -21,7 +21,7 @@ In a github repo directory, enter the command "autopush", you will be prompted t
 
 # Example
 
-![No video found!](example-vid.mp4)
+![No video found!](./example-vid.mp4)
 
 
 # Socials
