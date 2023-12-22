@@ -1,7 +1,7 @@
 # AutoPush
 
 ![No image found!](logo.png)
-AutoPush is a small program to do the pushing to github, automatically! Once your  local github repo is ready to push, just enter "autopush" in the commandline and it will do the pushing for you. No need to enter 3 or 4 git commands. Using AutoPush you need to type only one!
+AutoPush is a small program that pushes the current working repo to github, automatically! Once your local github repo is ready to push, just enter "autopush" in the commandline and it will do the pushing for you. No need to enter 3 or 4 git commands. Using AutoPush you need to type only one!
 
 # Installation
 
